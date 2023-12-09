@@ -1,0 +1,12 @@
+.vs/
+.vscode/
+.idea/
+
+bin/
+obj/
+builds/
+
+.DS_Store
+.AppleDouble
+.LSOverride
+*.pubxml.user

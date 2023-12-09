@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LineTool": {
+      "commandName": "Project",
+      "commandLineArgs": "show C:\\Users\\kcart\\Downloads\\open-library-files\\authors.txt C:\\Users\\kcart\\Downloads\\open-library-files\\extracted-authors.txt 99 106"
+    }
+  }
+}
